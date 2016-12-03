@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: robotcar-test1
-  host: robotcar-test1
+  name: CD-Innovation-Day-Car
+  host: CD-Innovation-Day-Car
   disk_quota: 1024M
